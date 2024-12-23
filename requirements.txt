@@ -1,0 +1,3 @@
+numpy==2.1.3
+randomhash==0.6.0
+xxhash==3.5.0
